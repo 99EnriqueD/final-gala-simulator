@@ -5,7 +5,7 @@ let lung_capacity = 0
 let diameter_bronchioli_mm = 0
 function Control () {
     person = "person.Controle"
-    lung_capacity = 6
+    lung_capacity = 8
     diameter_bronchioli_mm = 1
     IoTeach.Blow(person, lung_capacity, diameter_bronchioli_mm)
 }
@@ -17,7 +17,7 @@ input.onButtonPressed(Button.B, function () {
 })
 function Asthma () {
     person = "person.Asthma"
-    lung_capacity = 8
+    lung_capacity = 6
     diameter_bronchioli_mm = 1.3
     IoTeach.Blow(person, lung_capacity, diameter_bronchioli_mm)
 }
