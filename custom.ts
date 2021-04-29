@@ -12,7 +12,7 @@ namespace IoTeach {
     * Blow on the virtual propeller!
     */
     //% block
-    export function Blow () {
+    export function Blow (person: string, lung_capacity: number, diameter_bronchioli_mm: number) {
     let datapunt
     datapunt = 0
     basic.pause(100 / diameter_bronchioli_mm)
