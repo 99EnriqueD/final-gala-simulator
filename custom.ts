@@ -4,7 +4,7 @@
  */
 
 /**
- * Custom radio blocks
+ * Custom IoTeach blocks
  */
 //% weight=100 color=#FF1493
 namespace IoTeach {
