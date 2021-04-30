@@ -49,6 +49,7 @@ Two parameters that affect the lung function are the ``||variables:lung_capacity
 The Lung capacity of a person is measured in Liters. This represents the total amount of air inside the lungs. 
 The normal lung capacity is around 6 Liters. 
 Try changing the lung capacity for the control or asthma person and see how it affects the plot!
+Be sure to use a dot '.' instead of a comma ',' when using decimal numbers.
 
 ## Step 5
 The diameter_bronchili variable is a little bit more difficult to understand. 
@@ -56,6 +57,7 @@ Perhaps you remember from secondary school that your lungs are build up out of t
 The smallest tubes are called the bronchioli. In astma these bronchioli become thinner which makes it more difficult to breath. You can compare this to breathing to a straw. 
 The normal diameter of the bronchioli is around 1 millimeter. 
 Try changing the bronchioli diameter for the control or asthma person and see how it affects the plot!
+Be sure to use a dot '.' instead of a comma ',' when using decimal numbers.
 
 ## Step 6
 Great work, you now know the basics of the biology that IoTeach will integrate with IoT.
