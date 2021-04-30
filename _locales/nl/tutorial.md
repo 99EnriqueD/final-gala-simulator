@@ -1,4 +1,5 @@
-# tutorial
+# _locales/nl/tutorial
+
 ```template
 let person = ""
 let lung_capacity = 0

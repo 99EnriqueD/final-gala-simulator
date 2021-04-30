@@ -10,6 +10,7 @@
     "files": [
         "README.md",
         "tutorial.md",
+        "_locales/nl/tutorial.md",
         "custom.ts"
     ],
     "testFiles": [
