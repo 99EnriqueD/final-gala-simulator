@@ -37,7 +37,7 @@ Deze simulator geeft je de kans om virtueel op een propeller te blazen die aange
 De micro:bit zal dan de snelheid meten van de draaiende propeller en dit in een grafiek zetten.
 Probeer dit uit door op de A-knop van je virtuele micro:bit te drukken. 
 
-Een "toon console" balk zou moeten verschijnen onder de micro:bit. Klik erop om de grafiek te bekijken.
+Een "console weergeven" balk zou moeten verschijnen onder de micro:bit. Klik erop om de grafiek te bekijken.
 
 ## Step 3 
 
